@@ -1,0 +1,1 @@
+A função preproc_dataset, no notebook, recebe o dataset (treino, validação ou teste) e retorna o mesmo pre-processado.
